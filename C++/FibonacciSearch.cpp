@@ -56,7 +56,7 @@ int main()
 	}
  
 	up:
-	cout<<"\nEnter the Element to be searched: ";
+	cout<<"Enter the fibbonacci term to be searched of ";
 	cin>>n;
  
 	// Implement Fibonacci search.
